@@ -1,6 +1,6 @@
 import requests
-username = 'api'
-password = '+@..!pZdvJ8V9YA'
+username = ''
+password = ''
 base_url = 'http://127.0.0.1:8000/api/'
 
 # retrieve all courses
